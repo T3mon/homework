@@ -1,0 +1,4 @@
+﻿  ConsoleApplication50.cpp
+c:\users\artem\source\repos\consoleapplication50\consoleapplication50\consoleapplication50.cpp(57): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\artem\source\repos\consoleapplication50\consoleapplication50\consoleapplication50.cpp(68): warning C4101: field: неиспользованная локальная переменная
+  ConsoleApplication50.vcxproj -> C:\Users\Artem\source\repos\ConsoleApplication50\Debug\ConsoleApplication50.exe
